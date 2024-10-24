@@ -1,4 +1,4 @@
-# Automating-Crypto-Website-API-Pull-Using-Python
+# Automating Crypto Website API Pull Using Python
 This Python project uses the CoinMarketCap API to retrieve and display the latest cryptocurrency listings. It fetches real-time data on the top 10 cryptocurrencies, including their market prices, using the requests library. Key functionality includes:
 
 Making API requests to CoinMarketCap for the latest cryptocurrency prices.
